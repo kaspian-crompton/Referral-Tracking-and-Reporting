@@ -20,5 +20,6 @@ Summary, Referrals, Checks, Settings, Enrolment_checklist, Notes
 ## Assumptions and limitations
 - Target days and percentages are my own assumptions, not from a real service.
 
-## Tools
-Excel tables, COUNTIFS, AVERAGEIFS, INDEX/MATCH, data validation, conditional formatting, charts
+## Files
+Screenshots of the dashboard are included. The workbook is available on request.
+
