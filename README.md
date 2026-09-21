@@ -6,7 +6,7 @@ Portfolio project: an Excel workbook that logs service referrals, flags overdue 
 
 [View the summary as a PDF](referral-summary.pdf)
 
-## What it does
+## Function
 - Flags referrals overdue for first contact against assumed priority-based target times
 - Flags urgent referrals with no escalation recorded
 - Data-quality checks for missing fields, possible duplicate clients, and inconsistent dates or consent
@@ -19,7 +19,6 @@ Summary, Referrals, Checks, Settings, Enrolment_checklist, Notes
 
 ## Assumptions and limitations
 - Target days and percentages are my own assumptions, not from a real service.
-- Results show how the workbook works, not real performance.
 
 ## Tools
 Excel tables, COUNTIFS, AVERAGEIFS, INDEX/MATCH, data validation, conditional formatting, charts
