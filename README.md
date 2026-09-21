@@ -4,7 +4,7 @@ Portfolio project: an Excel workbook that logs service referrals, flags overdue 
 
 **All data is simulated.** The 120 referrals are invented and do not describe real people or organisations.
 
-![Summary](referral-summary.pdf)
+[View the summary as a PDF](referral-summary.pdf)
 
 ## What it does
 - Flags referrals overdue for first contact against assumed priority-based target times
