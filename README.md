@@ -21,5 +21,5 @@ Summary, Referrals, Checks, Settings, Enrolment_checklist, Notes
 - Target days and percentages are my own assumptions, not from a real service.
 
 ## Files
-Screenshots of the dashboard are included. The workbook is available on request.
+Screenshots of the dashboard are included. The workbook is available for download.
 
